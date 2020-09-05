@@ -9,7 +9,11 @@
   src: url(/assets/UncialAntiqua-Regular.otf);
 }
 
-h1, h2, h3, h4, h5, h6, .site-title {
-    font-family: UncialAntiqua;
-    color: black;
+body {
+  font-family: UncialAntiqua;
+}
+
+.pagination {
+  font-size: 2rem;
+  margin-bottom: 2rem;
 }
