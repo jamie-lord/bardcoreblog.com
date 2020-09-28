@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "System of a Down - Algal the Bard"
+title:  "Toxicity - Algal the Bard"
 date:   2020-06-18 00:00:00 +0100
 categories: algalthebard youtube
 ---
