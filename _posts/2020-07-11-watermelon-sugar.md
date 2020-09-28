@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Watermelon Sugar -  stantough "
+title:  "Watermelon Sugar - stantough"
 date:   2020-07-11 00:00:00 +0100
 categories: stantough youtube
 ---
