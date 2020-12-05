@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Just a lil bit - Beedle The Bardcore"
+date:   2020-12-04 22:00:00 +0100
+categories: beedlethebardcore youtube instrumental
+---
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/IV9R7UTaDSg' frameborder='0' allowfullscreen></iframe></div>
